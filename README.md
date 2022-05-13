@@ -122,13 +122,13 @@ Now that we have moved on to tuning modeling, we will use cross validation to he
 
 ### Cross Validation Tuned XGBoost
 
-<img src='images/images/xgb_CV_tuned_CR.png'>
+<img src='images/xgb_CV_tuned_CR.png'>
 
-<img src='images/images/xgb_CV_tuned_CM.png'>
+<img src='images/xgb_CV_tuned_CM.png'>
 
 ### Feature Importance
 
-<img src='images/images/xgb_featureimp.png'>
+<img src='images/xgb_featureimp.png'>
 
 ## Conclusion
 
@@ -143,7 +143,6 @@ So a game that is a mixture of Among Us, Breath of the Wild with some Tetris tha
 
 
 ### Sources
-
-[Input Mag](https://www.inputmag.com/gaming/valves-steam-store-breaks-all-time-highs-with-28-million-users#:~:text=As%20of%20last%20year%2C%20Steam,Epic%20Games's%2056%20million.)
+[Input Mag](https://www.inputmag.com/gaming/valves-steam-store-breaks-all-time-highs-with-28-millionusers#:~:text=As%20of%20last%20year%2C%20Steam,Epic%20Games's%2056%20million)
 [Steam](https://store.steampowered.com/news/group/4145017/view/2961646623386540826)
 [Statista](https://www.statista.com/topics/8016/covid-19-impact-on-the-gaming-industry-worldwide/#dossierKeyfigures)
