@@ -110,19 +110,19 @@ Now that we have moved on to tuning modeling, we will use cross validation to he
 
 ### Tuned Gradient Boosting
 
-<img src='images/gb_tuned_CR.png'>
+<img src='images/gb_tuned_CR.PNG'>
 
 <img src='images/gb_tuned_CM.png'>
 
 ### Cross Validation XGBoost
 
-<img src='images/xgb_CV_CR.png'>
+<img src='images/xgb_CV_CR.PNG'>
 
 <img src='images/xgb_CV_CM.png'>
 
 ### Cross Validation Tuned XGBoost
 
-<img src='images/xgb_CV_tuned_CR.png'>
+<img src='images/xgb_CV_tuned_CR.PNG'>
 
 <img src='images/xgb_CV_tuned_CM.png'>
 
